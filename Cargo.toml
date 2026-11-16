@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-device-model"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS device-model component - kernel_subsystem"
+
+[lib]
+name = "device_model"
+path = "src/lib.rs"
