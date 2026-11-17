@@ -3,7 +3,7 @@ name = "SigmaOS-device-model"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "device-model component"
+description = "device model component"
 upstream = []
 
 [contract]
